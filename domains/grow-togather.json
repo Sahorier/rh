@@ -1,0 +1,11 @@
+{
+  "description": "grow_togather, educational website",
+  "repo": "https://github.com/sahorier/sahorier.github.io",
+  "owner": {
+    "username": "sahorier",
+    "email": "sahoriern@gmail.com"
+  },
+  "record": {
+    "CNAME": "sahorier.github.io"
+  }
+}
